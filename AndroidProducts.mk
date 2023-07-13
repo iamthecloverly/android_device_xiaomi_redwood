@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_redwood.mk
+    $(LOCAL_DIR)/leaf_redwood.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_redwood-user \
-    lineage_redwood-userdebug \
-    lineage_redwood-eng
+    leaf_redwood-user \
+    leaf_redwood-userdebug \
+    leaf_redwood-eng
